@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 900px;
+
+    background-image: url(https://github.com/niladri-roy/Frontend.io_Solutions/blob/main/sunnyside-agency-landing-page/images/desktop/image-header.jpg);
+}
+
