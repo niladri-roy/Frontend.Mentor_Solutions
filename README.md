@@ -1,2 +1,2 @@
-# Frontend.io_Solutions
-Solutions to Frontend.io Challenges
+# Frontend.Mentor_Solutions
+Solutions to Frontend.Mentor Challenges
